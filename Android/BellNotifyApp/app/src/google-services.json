@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971443011735",
+    "firebase_url": "https://bell-fb50b.firebaseio.com",
+    "project_id": "bell-fb50b",
+    "storage_bucket": "bell-fb50b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971443011735:android:b3f4bab56a221d56b5e9d2",
+        "android_client_info": {
+          "package_name": "com.rylox.bell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971443011735-e20efq5ousj4enj243vk0mjoivsrs0ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHnW0vUcvYORBPY49KV3zNRhghv4JaNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971443011735-e20efq5ousj4enj243vk0mjoivsrs0ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

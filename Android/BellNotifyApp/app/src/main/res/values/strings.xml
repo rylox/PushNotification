@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BellNotifyApp</string>
+    <string name="msg_subscribed">Successfully subscirbed to topic</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
+    <string name="default_notification_channel_id">bellNotifyChannel</string>
+    <string name="fcm_message">New bell notification!</string>
+</resources>
